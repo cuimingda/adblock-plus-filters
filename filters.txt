@@ -15,3 +15,6 @@ www.baidu.com##.s_top_container
 ! so.com
 *$domain=www.so.com
 @@||so.com^$document
+www.so.com###header
+www.so.com###ai_searchbox_tabs
+www.so.com###bd_search
