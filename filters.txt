@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/cuimingda/adblock-plus-filter-list
 ! Expires: 1 day
 
+! block everything on `https://www.baidu.com/`, except homepage document.
 *$domain=www.baidu.com
 @@||baidu.com^$document
 www.baidu.com###s_wrap
