@@ -11,3 +11,7 @@ www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
+
+! so.com
+*$domain=www.so.com
+@@||so.com^$document
