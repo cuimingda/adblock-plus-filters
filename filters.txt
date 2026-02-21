@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Title: Custom Adblock Plus Filter List
-! Description: custom filters
-! Homepage: https://github.com/cuimingda/adblock-plus-filter-list
+! Title: Network Probe Filters
+! Description: Filters for Network Probes
+! Homepage: https://github.com/cuimingda/abp-netwok-probe-filters
 ! Expires: 1 day
 
-! block everything on `https://www.baidu.com/`, except homepage document.
+! baidu.com
 *$domain=www.baidu.com
 @@||baidu.com^$document
 www.baidu.com###s_wrap
