@@ -5,14 +5,14 @@
 ! Expires: 1 day
 
 ! baidu.com
-||*^$script,domain=www.baidu.com
+||bdstatic.com^$domain=www.baidu.com
+||bcebos.com^$domain=www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
 
 ! so.com
-||*^$script, domain=www.so.com
 www.so.com###header
 www.so.com###ai_searchbox_tabs
 www.so.com###bd_search
