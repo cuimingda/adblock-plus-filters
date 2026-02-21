@@ -5,14 +5,34 @@
 ! Expires: 1 day
 
 ! baidu.com
-*$script,image,stylesheet,font,media,xmlhttprequest,subdocument,object,websocket,ping,other,domain=www.baidu.com
+*$script,domain=www.baidu.com
+*$stylesheet,domain=www.baidu.com
+*$image,domain=www.baidu.com
+*$font,domain=www.baidu.com
+*$media,domain=www.baidu.com
+*$xmlhttprequest,domain=www.baidu.com
+*$subdocument,domain=www.baidu.com
+*$object,domain=www.baidu.com
+*$websocket,domain=www.baidu.com
+*$ping,domain=www.baidu.com
+*$other,domain=www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
 
 ! so.com
-*$script,image,stylesheet,font,media,xmlhttprequest,subdocument,object,websocket,ping,other,domain=www.so.com
+*$script,domain=www.so.com
+*$stylesheet,domain=www.so.com
+*$image,domain=www.so.com
+*$font,domain=www.so.com
+*$media,domain=www.so.com
+*$xmlhttprequest,domain=www.so.com
+*$subdocument,domain=www.so.com
+*$object,domain=www.so.com
+*$websocket,domain=www.so.com
+*$ping,domain=www.so.com
+*$other,domain=www.so.com
 www.so.com###header
 www.so.com###ai_searchbox_tabs
 www.so.com###bd_search
