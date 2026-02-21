@@ -7,4 +7,6 @@
 *$domain=www.baidu.com
 @@||baidu.com^$document
 www.baidu.com###s_wrap
-
+www.baidu.com###chat-input-extension
+www.baidu.com##.chat-input-tool
+www.baidu.com##.s_top_container
