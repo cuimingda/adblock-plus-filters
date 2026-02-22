@@ -1,13 +1,17 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.16
+! Title: Adblock Plus Filters 1.0.17
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
 ! GLOBAL
+
+||1rx.io^
 ||2mdn.net^
 ||360yield.com^
 ||3lift.com^
+
+||a-mo.net^
 ||acuityplatform.com^
 ||ad.gt^
 ||adform.net^
@@ -26,6 +30,8 @@
 ||arcpublishing.com^
 ||audienceexposure.com^
 ||amxrtb.com^
+||assertcom.de^
+||ay.delivery^
 ||bannerflow.net^
 ||bidr.io^
 ||bidswitch.net^
@@ -33,10 +39,13 @@
 ||casalemedia.com^
 ||chartbeat.com^
 ||chartbeat.net^
+||clearnview.com^
 ||company-target.com^
 ||connatix.com^
+||confiant-integrations.net^
 ||cookielaw.org^
 ||copper6.com^
+||cpmstar.com^
 ||criteo.com^
 ||datadoghq-browser-agent.com^
 ||demdex.net^
@@ -50,6 +59,7 @@
 ||eyeota.net^
 ||flashtalking.com^
 ||fls-*.amazon.com^
+||fwmrm.net^
 ||go-mpulse.net^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -60,6 +70,7 @@
 ||hgrtb.com^
 ||indexww.com^
 ||idmap.ai^
+||id5-sync.com^
 ||imasdk.googleapis.com^
 ||inmobi.com^
 ||inmobicdn.net^
@@ -67,6 +78,7 @@
 ||jwpltx.com^
 ||jwpcdn.com^
 ||jwplayer.com^
+||kueezrtb.com^
 ||liadm.com^
 ||lijit.com^
 ||loopme.me^
@@ -75,11 +87,13 @@
 ||merequartz.com^
 ||mfadsrvr.com^
 ||ntv.io^
+||onetag-sys.com^
 ||openx.net^
 ||openwebmp.com^
 ||outbrain.com^
 ||permutive.com^
 ||pippio.com^
+||pmbmonetize.live^
 ||postrelease.com^
 ||privacymanager.io^
 ||pubmatic.com^
@@ -89,6 +103,7 @@
 ||qualtrics.com^
 ||rfihub.net^
 ||rfihub.com^
+||richaudience.com^
 ||rlcdn.com^
 ||rubiconproject.com^
 ||rqtrk.eu^
@@ -100,12 +115,19 @@
 ||segment.io^
 ||sharethrough.com^
 ||sitescout.com^
+
 ||smartadserver.com^
 ||smilewanted.com^
+||smaato.net
+
+||sonobi.com^
 ||sophi.io^
 ||spot.im^
+||sparteo.com^
 ||stickyadstv.com^
+
 ||tapad.com^
+||tappx.com^
 ||teads.tv^
 ||temu.com/api/adx^
 ||thecontentserver.com^
@@ -114,11 +136,20 @@
 ||trustarc.com^
 ||turn.com^
 ||tynt.com^
+||technoratimedia.com^
+
+
 ||undertone.com^
+||unrulymedia.com^
+
 ||vistarsagency.com^
 ||visualwebsiteoptimizer.com^
+
 ||wretchedfloor.com^
+
 ||yieldmo.com^
+
+||zemanta.com^
 
 
 
