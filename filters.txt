@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.18
+! Title: Adblock Plus Filters 1.0.19
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -32,10 +32,12 @@
 ||amxrtb.com^
 ||assertcom.de^
 ||ay.delivery^
+
 ||bannerflow.net^
 ||bidr.io^
 ||bidswitch.net^
 ||bidtheatre.com^
+
 ||casalemedia.com^
 ||chartbeat.com^
 ||chartbeat.net^
@@ -48,19 +50,23 @@
 ||copper6.com^
 ||cpmstar.com^
 ||criteo.com^
+
 ||datadoghq-browser-agent.com^
 ||demdex.net^
 ||dianomi.com^
 ||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
+
 ||eloqua.com^
 ||en25.com^
 ||everesttech.net^
 ||eyeota.net^
+
 ||flashtalking.com^
 ||fls-*.amazon.com^
 ||fwmrm.net^
+
 ||go-mpulse.net^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -68,7 +74,9 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||gumgum.com^
+
 ||hgrtb.com^
+
 ||indexww.com^
 ||idmap.ai^
 ||id5-sync.com^
@@ -76,22 +84,30 @@
 ||inmobi.com^
 ||inmobicdn.net^
 ||intentiq.com^
+||infogram.com^
+
 ||jwpltx.com^
 ||jwpcdn.com^
 ||jwplayer.com^
+
 ||kueezrtb.com^
+
 ||liadm.com^
 ||lijit.com^
 ||loopme.me^
+
 ||mediav.com^
 ||media.net^
 ||merequartz.com^
 ||mfadsrvr.com^
+
 ||ntv.io^
+
 ||onetag-sys.com^
 ||openx.net^
 ||openwebmp.com^
 ||outbrain.com^
+
 ||permutive.com^
 ||pippio.com^
 ||pmbmonetize.live^
@@ -99,15 +115,18 @@
 ||privacymanager.io^
 ||pubmatic.com^
 ||pub.network^
+
 ||quantcount.com^
 ||quantserve.com^
 ||qualtrics.com^
+
 ||rfihub.net^
 ||rfihub.com^
 ||richaudience.com^
 ||rlcdn.com^
 ||rubiconproject.com^
 ||rqtrk.eu^
+
 ||samplicio.us^
 ||scaredsnakes.com^
 ||scorecardresearch.com^
@@ -117,11 +136,9 @@
 ||sentry.io^
 ||sharethrough.com^
 ||sitescout.com^
-
 ||smartadserver.com^
 ||smilewanted.com^
 ||smaato.net
-
 ||sonobi.com^
 ||sophi.io^
 ||spot.im^
@@ -139,7 +156,6 @@
 ||turn.com^
 ||tynt.com^
 ||technoratimedia.com^
-
 
 ||undertone.com^
 ||unrulymedia.com^
