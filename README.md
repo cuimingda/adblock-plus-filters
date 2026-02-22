@@ -1,4 +1,4 @@
-# Network Probe Filters for Adblock Plus
+# Adblock Plus Filters for Search Engines
 
 1. Open Chrome and go to: `chrome://extensions`
 2. Find `Adblock Plus` and click `Details`
