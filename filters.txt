@@ -5,14 +5,14 @@
 ! Expires: 1 day
 
 ! baidu.com
-||bdstatic.com^$domain=www.baidu.com
+||baidu.com^$script,image,domain=www.baidu.com
 ||bcebos.com^$domain=www.baidu.com
 ||bdimg.com^$domain=www.baidu.com
-||baidu.com^$script,image,domain=www.baidu.com
-www.baidu.com###s_wrap
+||bdstatic.com^$domain=www.baidu.com
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
 www.baidu.com##.s_top_container
+www.baidu.com###s_wrap
 
 ! so.com
 www.so.com###header
