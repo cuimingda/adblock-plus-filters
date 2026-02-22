@@ -11,8 +11,8 @@
 ! ||baidu.com^$domain=www.baidu.com
 ! @@||baidu.com^$document,domain=baidu.com
 
-*$domain=www.baidu.com
 @@||baidu.com^$document
+*$script,image,stylesheet,font,media,xmlhttprequest,subdocument,object,websocket,ping,other,domain=www.baidu.com
 
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
