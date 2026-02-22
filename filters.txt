@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.14
+! Title: Adblock Plus Filters 1.0.15
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -19,24 +19,30 @@
 ||amazon-adsystem.com^
 ||analytics.twitter.com^
 ||analytics.yahoo.com^
+||arcpublishing.com^
 ||bannerflow.net^
 ||bidr.io^
 ||bidswitch.net^
 ||bidtheatre.com^
 ||casalemedia.com^
+||chartbeat.com^
 ||chartbeat.net^
 ||company-target.com^
 ||connatix.com^
+||cookielaw.org^
 ||datadoghq-browser-agent.com^
 ||demdex.net^
 ||dianomi.com^
 ||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
+||eloqua.com^
+||en25.com^
 ||everesttech.net^
 ||eyeota.net^
 ||flashtalking.com^
 ||fls-*.amazon.com^
+||go-mpulse.net^
 ||google-analytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
@@ -50,6 +56,7 @@
 ||intentiq.com^
 ||jwpltx.com^
 ||jwpcdn.com^
+||jwplayer.com^
 ||liadm.com^
 ||mediav.com^
 ||media.net^
@@ -71,15 +78,18 @@
 ||rubiconproject.com^
 ||rqtrk.eu^
 ||samplicio.us^
+||scaredsnakes.com^
 ||scorecardresearch.com^
 ||segment.com^
 ||segment.io^
 ||sitescout.com^
 ||smartadserver.com^
+||sophi.io^
 ||stickyadstv.com^
 ||tapad.com^
 ||teads.tv^
 ||temu.com/api/adx^
+||thecontentserver.com^
 ||tru.am^
 ||vistarsagency.com^
 ||wretchedfloor.com^
