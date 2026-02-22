@@ -1,10 +1,11 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.12
+! Title: Adblock Plus Filters 1.0.13
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
 ! GLOBAL
+||acuityplatform.com^
 ||ad.gt^
 ||adform.net^
 ||adnxs.com^
@@ -16,34 +17,47 @@
 ||agkn.com^
 ||amazon-adsystem.com^
 ||analytics.twitter.com^
+||analytics.yahoo.com^
 ||bannerflow.net^
 ||bidr.io^
 ||bidswitch.net^
 ||bidtheatre.com^
+||casalemedia.com^
 ||company-target.com^
+||connatix.com^
+||demdex.net^
 ||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||everesttech.net^
+||eyeota.net^
 ||flashtalking.com^
 ||fls-*.amazon.com^
 ||google-analytics.com^
 ||googleadservices.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||indexww.com^
 ||idmap.ai^
 ||inmobi.com^
 ||inmobicdn.net^
 ||intentiq.com^
+||liadm.com^
 ||mediav.com^
+||media.net^
 ||mfadsrvr.com^
 ||ntv.io^
+||openx.net^
+||pippio.com^
 ||postrelease.com^
 ||pubmatic.com^
 ||quantcount.com^
 ||quantserve.com^
+||rfihub.net^
+||rfihub.com^
 ||rlcdn.com^
 ||rubiconproject.com^
+||rqtrk.eu^
 ||samplicio.us^
 ||scorecardresearch.com^
 ||sitescout.com^
@@ -51,9 +65,8 @@
 ||stickyadstv.com^
 ||tapad.com^
 ||teads.tv^
+||temu.com/api/adx^
 ||vistarsagency.com^
-
-
 
 
 
