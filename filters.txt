@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.9
+! Title: Adblock Plus Filters 1.0.10
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -30,7 +30,6 @@
 ||googletagservices.com^
 ||idmap.ai^
 ||inmobi.com^
-||media-amazon.com^
 ||mediav.com^
 ||mfadsrvr.com^
 ||postrelease.com^
