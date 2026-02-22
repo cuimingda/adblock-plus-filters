@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.17
+! Title: Adblock Plus Filters 1.0.18
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -40,6 +40,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||clearnview.com^
+||cloudflareinsights.com^
 ||company-target.com^
 ||connatix.com^
 ||confiant-integrations.net^
@@ -113,6 +114,7 @@
 ||seedtag.com^
 ||segment.com^
 ||segment.io^
+||sentry.io^
 ||sharethrough.com^
 ||sitescout.com^
 
